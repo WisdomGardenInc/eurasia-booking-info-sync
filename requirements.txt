@@ -1,0 +1,5 @@
+requests==2.26.0
+cx_oracle==8.2.1
+PyYAML==3.13
+APScheduler~=3.5.3
+cacheout~=0.13.1

@@ -1,0 +1,12 @@
+sync:
+  org-code: 1
+  middle-table:
+    page-size: 10
+    oracle:
+      host: 127.0.0.1
+      database: ecology
+      username: roomis
+      password: roomis123
+  url:
+    booking: http://console.qa.roomis.com.cn/api/booking/spaces/{}/events
+    spaces: http://console.qa.roomis.com.cn/api/spaces
